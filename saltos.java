@@ -13,7 +13,6 @@ public class saltos {
         }
         System.out.println(String.format("··numero total de saltos: %d", salto));
     }
-
    /*  public void metodo(){
         int b = 100;
         double c = 12.5;
@@ -22,8 +21,7 @@ public class saltos {
             b = b / 2;
             salto++;
         }
-        System.out.println(String.format("numero total de saltos: %d", salto));
-        
+        System.out.println(String.format("numero total de saltos: %d", salto));        
     } */
 }
    
